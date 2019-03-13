@@ -1,5 +1,10 @@
 华山剑法
 厉害厉害 edit by lhuc
 厉害厉害 edit by ybuq
+<<<<<<< HEAD
 好好好好 test
 啦啦啦啦啦啦啦啦
+=======
+好好好好 keyi
+呵呵呵呵呵呵
+>>>>>>> 49c1eeb1cb809315b8cb18aad33e98eb3a125ff6
